@@ -1,1 +1,1 @@
-# SPCode-Semeter2
+# SPCode-Semester2
